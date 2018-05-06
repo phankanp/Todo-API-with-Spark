@@ -1,3 +1,5 @@
+RESTful Java API for a to-do list application. Used Spark, to build out the server side components needed to let an already-built front end add, remove and edit items in a to-do list. Used JDBC, JSON, REST best practices.
+
 # Steps
 
 - This API is versioned, all routes should be prefixed with /api/v1
